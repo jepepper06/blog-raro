@@ -20,10 +20,16 @@ body{
 #cabecera{
     background: #33a;
     color: white;
+    font-weight: bold;
     padding: 0.5em;
     margin: 0;
+    box-shadow: 2px 2px 7px 0px #222;
 }
 
 #post{
     padding: 1em;
+}
+#cabecera #tagline{
+    font-weight: normal;
+    padding: 0 0 0 0.75em;
 }
