@@ -21,7 +21,7 @@ body{
     background: #33a;
     color: white;
     font-weight: bold;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     margin: 0;
     box-shadow: 2px 2px 7px 0px #222;
 }
